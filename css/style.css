@@ -1,0 +1,14 @@
+.content{
+    padding-top: 10%;
+}
+.boxBorder {
+    border: 2px solid cadetblue;
+    padding: 15px 30px;
+    text-align: center;
+    margin: 6px 0;
+    background: aliceblue;
+    text-align: -webkit-center;
+  }
+  .boxBorder h4 {
+    color: cornflowerblue;
+  }
